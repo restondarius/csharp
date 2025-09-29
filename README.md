@@ -1,6 +1,6 @@
-# C# Projects and Exercises
+# Python Projects and Exercises
 
-Welcome to my repository of C# projects, exercises and games! This repository contains a collection of C# projects and exercises that I have completed to improve my C# programming skills.
+Welcome to my repository of my python projects, exercises and games! This repository contains a collection of python projects and exercises that I have completed to improve my python programming skills.
 
 ## Table of Contents
 
@@ -14,15 +14,6 @@ Welcome to my repository of C# projects, exercises and games! This repository co
 ## Introduction
 
 This repository serves as a showcase of my C# programming journey. Whether you're a beginner seeking examples or an experienced developer interested in exploring C# further, you'll find something useful here.
-
-## Projects
-
-Here are the projects included in this repository:
-
-1. **Project 1**: [Brief description of project 1]
-2. **Project 2**: [Brief description of project 2]
-3. **Project 3**: [Brief description of project 3]
-   ...
 
 Each project folder contains its own README with detailed information about the project, including its purpose, features, and instructions on how to run it.
 
