@@ -13,13 +13,13 @@ Welcome to my repository of my python projects, exercises and games! This reposi
 
 ## Introduction
 
-This repository serves as a showcase of my C# programming journey. Whether you're a beginner seeking examples or an experienced developer interested in exploring C# further, you'll find something useful here.
+This repository serves as a showcase of my python programming journey. Whether you're a beginner seeking examples or an experienced developer interested in exploring C# further, you'll find something useful here.
 
 Each project folder contains its own README with detailed information about the project, including its purpose, features, and instructions on how to run it.
 
 ## Exercises
 
-In addition to projects, this repository also includes various C# exercises. These exercises cover different aspects of C# programming, from basic syntax to advanced topics like object-oriented programming and asynchronous programming.
+In addition to projects, this repository also includes various C# exercises. These exercises cover different aspects of python programming, from basic syntax to advanced topics like object-oriented programming and asynchronous programming.
 
 ## Getting Started
 
